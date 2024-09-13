@@ -1,4 +1,4 @@
-# PR2_DATA_TYPES mejia suarez emmanuel alexander
+# PR1_VARIABLES mejia suarez emmanuel alexander
 -codigo para el despliegue de variables mejia suarez 
 ejemplo de variables
 
