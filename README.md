@@ -1,9 +1,12 @@
 # PR2_DATA_TYPES mejia suarez emmanuel alexander
 -codigo para el despliegue de variables 
 -mejia suarez 
+
+
 x = ["manzana", "banana", "uva"]
 y = ("manzana", "banana", "uva")
 z = ("manzana")
+
 
 print(type(x))
 print(type(y))
