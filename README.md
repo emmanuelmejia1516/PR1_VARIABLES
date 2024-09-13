@@ -1,17 +1,16 @@
 # PR2_DATA_TYPES mejia suarez emmanuel alexander
--codigo para el despliegue de variables 
--mejia suarez 
+-codigo para el despliegue de variables mejia suarez 
+ejemplo de variables
+
+x = 10
+y = 20
+print (x)
+print (y)
+
+print(x+y)
 
 
-x = ["manzana", "banana", "uva"]
-y = ("manzana", "banana", "uva")
-z = ("manzana")
+![image](https://github.com/user-attachments/assets/f54cb675-19a3-476f-b256-2bcee7f0fdf4)
 
-print(type(x))
-print(type(y))
-print(type(z))
 
-![image](https://github.com/user-attachments/assets/7b00bcf6-6651-4239-980b-67bb886aab52)
-
-![image](https://github.com/user-attachments/assets/c0f160d1-9264-4e52-8cec-bff8e95b4cbe)
-
+![image](https://github.com/user-attachments/assets/a7aab8f5-4525-4371-80cb-5de43730735d)
