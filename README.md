@@ -7,7 +7,6 @@ x = ["manzana", "banana", "uva"]
 y = ("manzana", "banana", "uva")
 z = ("manzana")
 
-
 print(type(x))
 print(type(y))
 print(type(z))
