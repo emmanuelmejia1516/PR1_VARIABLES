@@ -1,16 +1,18 @@
 # PR1_VARIABLES mejia suarez emmanuel alexander
 -codigo para el despliegue de variables mejia suarez 
 ejemplo de variables
+print("")
+print("mejia suarez emmanuel alexander")
+print("")
+# Asignación de valores a las variables
+x = 10  # x almacena el valor 10
+y = 20  # y almacena el valor 20
 
-x = 10
-y = 20
-print (x)
-print (y)
+# Impresión de las variables
+print(x)  # Imprime el valor de x
+print(y)  # Imprime el valor de y
 
-print(x+y)
+# Suma de las variables
+print(x + y)  # Imprime la suma de x e y (10 + 20)
 
-
-![image](https://github.com/user-attachments/assets/f54cb675-19a3-476f-b256-2bcee7f0fdf4)
-
-
-![image](https://github.com/user-attachments/assets/a7aab8f5-4525-4371-80cb-5de43730735d)
+![image](https://github.com/user-attachments/assets/961b400d-e0b0-47f0-8d11-bfd13ae79679)
