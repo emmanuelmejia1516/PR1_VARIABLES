@@ -2,7 +2,7 @@
 -codigo para el despliegue de variables mejia suarez 
 ejemplo de variables
 print("")
-print("mejia suarez emmanuel alexander")
+print("mejia suarez emmanuel alexander:mi practica es de suma de variables")
 print("")
 # Asignación de valores a las variables
 x = 10  # x almacena el valor 10
@@ -15,4 +15,5 @@ print(y)  # Imprime el valor de y
 # Suma de las variables
 print(x + y)  # Imprime la suma de x e y (10 + 20)
 
-![image](https://github.com/user-attachments/assets/961b400d-e0b0-47f0-8d11-bfd13ae79679)
+![image](https://github.com/user-attachments/assets/d527224f-5302-4409-94d6-ecd27650d62a)
+
